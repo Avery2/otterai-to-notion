@@ -5,5 +5,5 @@
 
 `node --experimental-specifier-resolution=node testapi.js`
 
-- https://github.com/omerdn1/otter.ai-api
+- https://github.com/Avery2/otter.ai-api
 - https://github.com/motdotla/dotenv
