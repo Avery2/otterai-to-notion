@@ -1,5 +1,9 @@
 # otterai-to-notion
 
+this one works https://github.com/chadlohrli/otterai-api
+
+## old notes
+
 - [otter.ai](https://otter.ai/)
 - [notion.so](https://www.notion.so/)
 
